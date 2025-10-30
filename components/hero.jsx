@@ -40,11 +40,8 @@ const HeroSection = () => {
           </div>
           <div className="hero-subtitle">
             <p className="mt-6 text-lg md:text-xl lg:text-2xl font-medium max-w-3xl mx-auto text-gray-100">
-              Elevate your learning experience with WatshiBo, 
-              the AI-driven platform designed to assist students 
-              in mastering complex subjects. Whether you're 
-              tackling challenging concepts or seeking 
-              personalized study support, WatshiBo is here to help you succeed.
+              Master interviews, craft standout resumes, and tailor cover letters.
+              all powered by intelligent automation.
             </p>
           </div>
         </div>
